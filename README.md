@@ -40,11 +40,7 @@ Task/
 
 ## 2. 如何运行
 
-首先安装依赖：
-
-```bash
-pip install -r requirements.txt
-```
+首先安装Requirement提到的Python包：
 
 然后运行主程序：
 
@@ -72,7 +68,7 @@ python main.py
 
 ## 3. Requirements
 
-`requirements.txt` 内容如下：
+所需Python包内容如下：
 
 ```text
 akshare
